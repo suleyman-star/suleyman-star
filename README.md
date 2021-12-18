@@ -15,10 +15,3 @@ var ewingg = {
 
 console.log(ewingg);
 ```
-
-##
-<span> 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ewingdedv" width="%100" height="200px"
-</p>
-</span>
