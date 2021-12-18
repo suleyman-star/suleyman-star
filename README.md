@@ -4,7 +4,7 @@
  <a href="https://www.instagram.com/ewing.dev/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ```js
-var akachinn = {
+var ewingg = {
     "height": "1.71",
     "weight": "65",
     "age": "16",
@@ -13,12 +13,12 @@ var akachinn = {
     "sex": "male"
 }
 
-console.log(akachinn);
+console.log(ewingg);
 ```
 
 ##
 <span> 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akachinn" width="%100" height="200px"
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ewingdedv" width="%100" height="200px"
 </p>
 </span>
