@@ -1,4 +1,4 @@
-[![Ewing](https://cdn.discordapp.com/attachments/952173276749246564/956782138143961128/ewing.png)](https://github.com/ewingdev/)
+[![Ewing](https://cdn.discordapp.com/attachments/907982458270670868/971497096521842688/ewingheader.png)](https://github.com/ewingdev/)
 
 <div align="center">
 <h3>Contact İnformation</h3>
