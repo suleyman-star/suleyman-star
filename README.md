@@ -1,5 +1,5 @@
 [![Ewing](https://cdn.discordapp.com/attachments/907982458270670868/971497096521842688/ewingheader.png)](https://github.com/ewingdev/)
-https://camo.githubusercontent.com/ee7f5444f6b3ab73d1a111ae0c187266eb7453a3dfa1717e0afb100cbd4e41e3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a61686b79786426636f6c6f723d646331343363
+<img width="11.5%" align="left" src="https://komarev.com/ghpvc/?username=jahkyxd&color=dc143c">
 <div align="center">
 <h3>Contact İnformation</h3>
 <a href="https://discord.com/users/774591026940739585" target"blank_"><img src="https://img.shields.io/badge/EWING%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
