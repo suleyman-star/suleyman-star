@@ -1,5 +1,5 @@
 [![Ewing](https://cdn.discordapp.com/attachments/907982458270670868/971497096521842688/ewingheader.png)](https://github.com/ewingdev/)
-<img width="11.5%" align="left" src="https://komarev.com/ghpvc/?username=ewingdev&color=dc143c">
+![Profile views](https://gpvc.arturio.dev/ewingdev)  
 <div align="center">
 <h3>Contact İnformation</h3>
 <a href="https://discord.com/users/774591026940739585" target"blank_"><img src="https://img.shields.io/badge/EWING%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
