@@ -18,12 +18,6 @@
 <img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
 </div>
 
-
-<div align="center">
-<h3>Github Stats</h3>
-  <div><img src="https://gpvc.arturio.dev/ewingdev"/></div>
-</a>
-
 <div align="center">
 <h3>Discord Activity</h3>
    <a href="https://discord.com/users/774591026940739585" target="_blank">
