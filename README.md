@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/nuVCsCl.png" alt="SwiftHotel Logo" width="200"/>
+</p>
+
 <div align="center">
 <h3>Contact İnformation</h3>
 <a href="https://discord.com/users/774591026940739585" target"blank_"><img src="https://img.shields.io/badge/EWING%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
