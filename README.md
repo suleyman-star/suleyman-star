@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/KZzIG5G.png" alt="SwiftHotel Logo" width="200"/>
+  <img src="https://i.imgur.com/KZzIG5G.png" alt="Banner"/>
 </p>
 
 <div align="center">
